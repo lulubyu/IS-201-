@@ -1,0 +1,45 @@
+.text-primary {
+    color: #BAAE46;
+  }
+.text-secondary {
+  color: #D67152;
+}
+
+.bg-primary {
+    background-color: #3074D6;
+  }
+  .text-gradient{
+    background-color: #3074D6;
+  }
+
+
+button{
+  background-color: #BAAE46;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+    button:hover {
+        background-color: #a79b2d;
+    }
+
+    .joke-container {
+      background-color: #fff;
+      border-radius: 5px;
+  }
+  .joke-button {
+      background-color: #D67152;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      cursor: pointer;
+      font-size: 16px;
+      border-radius: 5px;
+  }
+  .joke-button:hover {
+      background-color: #ce5c39;
+  }
+  
